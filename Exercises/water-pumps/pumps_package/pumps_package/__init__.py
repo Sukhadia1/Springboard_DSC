@@ -1,0 +1,2 @@
+def yay():
+    print("YAY!")
